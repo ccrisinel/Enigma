@@ -14,7 +14,6 @@ if ringPositions == "":
 	ringPositions = "TAB"
 #rotor(1,ord(ringPositions[0])-65)
 #rotor(2,ord(ringPositions[1])-65)
-#rotor(3,ord(ringPositions[2])-65)
 
 
 
